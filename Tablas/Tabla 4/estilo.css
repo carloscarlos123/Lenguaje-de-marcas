@@ -1,0 +1,14 @@
+table{
+    width: 200px;
+}
+table, tr, td, th{
+    border: 1px solid black;
+    padding: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+div{
+    justify-content: center;
+    display: flex;
+}
