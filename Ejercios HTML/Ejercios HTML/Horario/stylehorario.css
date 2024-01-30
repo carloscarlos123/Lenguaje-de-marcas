@@ -1,0 +1,104 @@
+body{
+    background-color: #D0E7D2;
+}
+
+header{
+    background-color: #618264;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+h1{
+    font-weight: bold;
+    color: white;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    box-shadow: 0px 15px 8px rgba(0, 0, 0, 0.1);
+    transition: 0.3s ease;
+    border-radius: 8px;
+    width: 1000px;
+}
+
+table:hover {
+    transform:scale(1.1)
+}
+
+table, tr, td{
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+.dia{
+    background-color: #618264;
+    font-weight: bold;
+}
+
+.hora{
+    background-color: #B0D9B1;
+    font-weight: bold;
+}
+
+.RECREO{
+    background-color: #618264;
+}
+
+.FOL{
+    background-color: #b0d9d9;
+}
+
+.ISO{
+    background-color: #826961;
+}
+
+.REDES{
+    background-color: #c3b0d9;
+}
+
+.BdD{
+    background-color: #d9d5b0;
+}
+
+.FH{
+    background-color: #d9b0b0;
+}
+
+.LM{
+    background-color: #b0bbd9;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+a:hover{
+    color: rgb(224, 80, 80);
+}
+
+hr{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+h4.final{
+    display: flex;
+    justify-content: center;
+}
+
+.linea1{
+    background-color: #618264;
+}
+
+img{
+    width: 100px;
+}
