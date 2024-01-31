@@ -1,0 +1,21 @@
+#fuera {
+    border: 5px dashed rgb(236, 35, 152);
+    padding: 10px;
+}
+
+.dentro{
+    border: 2px solid rgb(48, 48, 48);
+    color: rgb(218, 230, 173);
+    background-color: rgb(202, 17, 17);
+    font-size: 20px;
+    text-indent: 20px;
+    padding: 5px;
+}
+
+.back {
+    background-color: rgb(226, 223, 43);
+}
+
+.italic{
+    font-style: italic;
+}

@@ -1,0 +1,58 @@
+#titulo {
+    color: rgb(32, 134, 100);
+}
+
+strong {
+    color: red;
+}
+
+.destacado {
+    color: yellow;
+}
+
+p .especial{
+    color: blueviolet;
+}
+
+td {
+    color: brown;
+}
+
+tr .especial {
+    color: rgb(148, 88, 11);
+    border: 2px solid black;
+}
+
+th {
+    color: darkgreen;
+}
+
+#subtitulo {
+    color: darkmagenta;
+}
+
+a{
+    color: goldenrod;
+}
+
+a em{
+   color: dodgerblue; 
+}
+
+#adicional p{
+    color: green;
+}
+
+#adicional a {
+    color: chartreuse;
+}
+
+caption {
+    color:hotpink ;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}

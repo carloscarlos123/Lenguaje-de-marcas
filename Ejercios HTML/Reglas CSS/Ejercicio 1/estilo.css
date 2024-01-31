@@ -1,0 +1,31 @@
+*{
+    font: 1em/1.3 Arial, Helvetica, sansserif;
+}
+
+p{
+    color: green;
+}
+
+#primero p {
+    color: blueviolet;
+}
+
+a {
+    color: yellow;
+}
+
+#primero em  {
+    background: lime ; 
+    padding: .1em;
+}
+
+.especial {
+    background: fuchsia; 
+    border: 1px solid #FF9900;
+    padding: .1em;
+}
+
+.normal span {
+    font-weight:bold; 
+    color:rgb(131, 131, 65)
+}
