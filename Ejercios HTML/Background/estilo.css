@@ -1,0 +1,56 @@
+body{
+    background: url(imagenes/corazon.svg) repeat-y top left, url(imagenes/corazon.svg) repeat-y top right;
+    background-size: 100px;
+    background-color: bisque;
+    font-family: (sans-serif);
+    font-size: (1.25rem);
+    text-align:center;
+}
+
+h1 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace, cursive;
+}
+
+div {
+    border: 1px solid black;
+    margin: 10px 150px;
+    font-weight: bold;
+}
+
+.c1 {
+    background-image: url(imagenes/manchas.png);
+    color: white;
+}
+
+.c2 {
+    background-image: url(imagenes/fuego.svg), url(imagenes/fuego.svg), url(imagenes/tallos.jpg);
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-position: bottom left, bottom right;
+    color: hsl(52, 100%, 50%);
+}
+
+.c3 {
+    background-image: url(imagenes/ojo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: hsl(0, 100%, 25%);
+}
+
+.c4 {
+    padding-bottom: 50px;
+    background-image:url(imagenes/caballo.svg), url(imagenes/estrellas.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 90px,300px;
+    color: hsl(125, 100%, 20%);
+}
+
+.nombre {
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace, cursive;
+    font-size: 1.25rem;
+}
